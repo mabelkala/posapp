@@ -1,8 +1,8 @@
-import React from "react";
-import {} from "reactstrap";
+// import React from "react";
+// import {} from "reactstrap";
 
-const Loader = () => {
-  return <div className="text-centers"></div>;
-};
+// const Loader = () => {
+//   return <div className="text-centers"></div>;
+// };
 
-export default Loader;
+// export default Loader;
