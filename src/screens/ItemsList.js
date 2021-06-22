@@ -1,7 +1,6 @@
 import React, { useContext, useEffect } from "react";
 import { Container, Table } from "reactstrap";
 import { ItemsContext } from "../contexts/ItemsContext";
-import Loader from "../component/Loader";
 const ItemsList = () => {
   const { items, loading, error, getAllItems } = useContext(ItemsContext);
 

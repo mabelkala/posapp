@@ -1,0 +1,8 @@
+.navbar{
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 7px;
+    position: sticky;
+    top: 0px;
+}
